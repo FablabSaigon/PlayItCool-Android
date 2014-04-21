@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="windowBackground">#2c3e50</color>
+    <color name="btn_bg_default">#ffffff</color>
+    <color name="btn_bg_pressed">#80ffffff</color>
+    <color name="engagers">#e74c3c</color>
+    <color name="resilients">#5dbfb6</color>
+</resources>

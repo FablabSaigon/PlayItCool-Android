@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Play-It-Cool</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to Play-It-Cool!</string>
+    <string name="choose_team">Choose your side</string>
+    <string name="team_engagers">Engagers</string>
+    <string name="team_resilients">Resilients</string>
+    <string name="copyright_fablab">© Fablab Saigon</string>
+    
+    <string name="button_play">Play!</string>
+    <string name="title_activity_connecting_to">Sensor Checkpoint</string>
+    <string name="playing_for">You are part of:</string>
+    <string name="list_sensors">Sensors around you:</string>
+    <string name="button_detect">Scan Checkpoints</string>
+    <string name="button_checkin">Check-in!</string>
+    <string name="title_activity_read_checkpoint">Read Checkpoint</string>
+    <string name="checkpoint_data_label">Number of records</string>
+    
+    
+    <string name="button_stop_send">Send over</string>
+    <string name="title_activity_send_data">SendDataActivity</string>
+    
+    <string name="reading">reading...</string>
+    <string name="temperature">temperature</string>
+    <string name="humidity">%s%</string>
+     <string name="default_number_records">0</string>
+     <string name="latest_data">Latest data</string>
+    
+    <string name="congratulations">Congratulations!!!</string>
+    <string name="score">+%s</string>
+    <string name="close">Close</string>
+    <string name="scan">Scan</string>
+    <string name="total_record_get">Total record get</string>
+    <string name="celsius">%s\u2103</string>
+    <string name="claim">Claim</string>
+
+</resources>
